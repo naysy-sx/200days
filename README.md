@@ -9,3 +9,5 @@
 * [Разбор уже написанного кода](https://github.com/learning-zone/javascript-coding-practice)
 * [Алгоритмы и структуры данных](https://the-algorithms.com/language/javascript)
 * Практика (сапёр, змейка, жизнь, сокобан, тетрис, морской бой, 2048, пакман, прыжковый платформер)
+
+Ждём коммент от Евгения
